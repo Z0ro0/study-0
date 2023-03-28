@@ -38,7 +38,12 @@ body {
 }
 
 img {
-    height: 256px;
+    height: 250px;
+    width: 200px;
+    object-fit: contain;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
 }
 
 button {
