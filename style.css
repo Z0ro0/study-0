@@ -1,8 +1,22 @@
-h1{
-    text-align: center;
-    padding: 20px;
-    max-width: 600px;
+#user{
+    display: block;
 }
+#profile{
+    display: inline-flex;
+    margin-left: 10%;
+}
+#userinfo{
+    margin-left: 2%;
+    float: right;
+}
+.username{
+    display: flex;
+}
+.useremail{
+    display: flex;
+    margin-left: 5%;
+}
+
 .grid-container{
     display: grid;
     max-width: 600px;
