@@ -1,0 +1,15 @@
+
+html.body {
+    height: 100%;
+    margin: 100%;
+    box-sizing: border-box;
+
+}
+
+.img_back{
+    width: 100%;
+    height: auto;
+    padding: 0;
+    overflow: hidden ;
+}
+  
