@@ -1,3 +1,8 @@
+@import url('https://cdn.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css');
+* {
+    font-family: 'galmuri9';
+}
+
 html, body {
     height: 100%;
     margin: 0;
@@ -6,7 +11,7 @@ html, body {
 .nav {
     width: 100%;
     height: 53px;
-    background-color: green;
+    background-color: 69B567;
     /* background: linear-gradient(to right, #fff, green); */
     /* background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(125,173,89,1) 26%, rgba(56,129,0,1) 100%); */
     display: flex;
