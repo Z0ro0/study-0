@@ -3,24 +3,29 @@
     padding: 0;
 }
 
-.btns {
-    display: block;
+h1 {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: lighter;
+    font-style: italic;
 }
 
-.btn_signIn {
-    background-color: #CDE990;
+.btns {
+    display: block;
+    text-align: center;
+}
+
+button {
     width: 300px;
     height: 56px;
+    font-size: 26px;
+    margin-top: 80px;
+    background-color: #CDE990;
+    border: solid #ABCA67 3px;
     border-radius: 30px;
-    border-color: #ABCA67;
 }
 
 .btn_signUp {
-    margin-top: 40px;
-    background-color: #CDE990;
-    width: 300px;
-    height: 56px;
-    border-radius: 30px;
-    border-color: #ABCA67;
-
+    margin-top: 46px;
 }
