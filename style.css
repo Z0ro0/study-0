@@ -3,6 +3,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    justify-content: space-around;
 }
 #profile{
     display: inline-flex;
@@ -24,7 +25,7 @@
     display: flex;
 }
 #usertable{
-    display: flex;
+    display: inline-flex;
     margin-left: 10%;
 }
 .grid-container{
@@ -37,7 +38,21 @@
 
 
 
-
+#container2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+#usertime{
+    display: inline-flex;
+    flex-direction: column;
+}
+#usercalendar{
+    display: inline-flex;
+    
+}
 
 .grid-container2{
     display: grid;
